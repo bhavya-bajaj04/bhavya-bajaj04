@@ -1,4 +1,4 @@
-
+<img src="Black Modern Personal LinkedIn Banner.png" align="center" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Bhavya Bajaj</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
