@@ -1,4 +1,4 @@
-![image](https://github.com/bhavya-bajaj04/bhavya-bajaj04/assets/105426868/7e0d5cd4-94e6-4c29-b169-fa36968bb15b)<img src="Black Modern Personal LinkedIn Banner (1).png" align="center" width="100%" />
+<img src="Black Modern Personal LinkedIn Banner (1).png" align="center" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Bhavya Bajaj</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
