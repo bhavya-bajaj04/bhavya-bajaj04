@@ -1,4 +1,4 @@
-<img src="Black Modern Personal LinkedIn Banner (1).png" align="center" width="100%" />
+![image](https://github.com/bhavya-bajaj04/bhavya-bajaj04/assets/105426868/7e0d5cd4-94e6-4c29-b169-fa36968bb15b)<img src="Black Modern Personal LinkedIn Banner (1).png" align="center" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Bhavya Bajaj</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif" align="right" width="400" />
 
-- 📄 Know more about me: [Resume]([https://www.google.com](https://drive.google.com/file/d/1JNy7j_SkPGIrjuBft7d8-LIYp9y71SnZ/view?usp=sharing))
+- 📄 Know more about me: [Resume]([https://www.google.com](https://drive.google.com/file/d/1H4nXdM_W9FI1B_m36h3tu9IWQiFZB29v/view?usp=drive_link))
 
 - 🌱 I’m currently learning **React JS**
 
